@@ -17,10 +17,8 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>this is blog</title>
-    <url>/2019/12/19/this-is-blog/</url>
-    <content><![CDATA[<h1 id="这个博客用Hexo-构建"><a href="#这个博客用Hexo-构建" class="headerlink" title="这个博客用Hexo 构建"></a>这个博客用Hexo 构建</h1><h2 id="Markdown-语法写博客，Hexo-构建"><a href="#Markdown-语法写博客，Hexo-构建" class="headerlink" title="Markdown 语法写博客，Hexo 构建"></a>Markdown 语法写博客，Hexo 构建</h2>]]></content>
+      <categories>
+        <category>日志</category>
+      </categories>
   </entry>
 </search>
